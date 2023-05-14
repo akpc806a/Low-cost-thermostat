@@ -1,0 +1,12 @@
+*.asm
+*.ihx
+*.lk
+*.lst
+*.map
+*.rel
+*.rst
+*.sym
+*.asm
+*.zip
+*.hex
+*.exe
